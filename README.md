@@ -1,3 +1,4 @@
+# Repository Archived - replaced by eodhp-stac-fastapi
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
